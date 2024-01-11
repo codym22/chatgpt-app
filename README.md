@@ -1,4 +1,4 @@
-this is chatgpt clone with Axios and chatgpt api; here we used vite.
+this is chatbot clone with Axios and openai api; here we used vite.
 This ChatGPT App Clone is a web application developed using a stack that includes Express.js for the backend, React.js for the front end, and a combination of REST/RESTful APIs for communication. The app incorporates HTML, CSS, and JavaScript to create a seamless and interactive user experience.
 
 
